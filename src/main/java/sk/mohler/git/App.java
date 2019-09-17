@@ -7,6 +7,6 @@ package sk.mohler.git;
 public class App {
 	public static void main(String[] args) {
 		System.out.println("Hello Kosice!");
-		System.out.println("Kubo je môj kamoš");
+		System.out.println("Viky nie je môj kamko :(");
 	}
 }
